@@ -8,6 +8,7 @@ const updateUserDetails = require('../controller/updateUSerDetails');
 
 const router = express.Router();
 
+
 //user api
 router.post('/register', registerUser);
 
