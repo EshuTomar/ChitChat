@@ -110,6 +110,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 
 ---
+---
 
 Thank you for using ChitChat! We hope you enjoy your chat experience.
 
